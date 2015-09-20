@@ -1,0 +1,10 @@
+Package: trung440lab3
+Type: Package
+Title: Lab 3 R programming
+Version: 0.9
+Date: 2015-09-20
+Author: TrungNT
+Maintainer: Trung <anonymouswork90@gmail.com>
+Description: Lab 3 for R programming course
+License: GPL (>= 2)
+Suggests: testthat
